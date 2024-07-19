@@ -1,8 +1,8 @@
 # tri-tru-eso
 ## Esolang
----
+
 Tri-tru-eso is a esolang with one goal in mind: to allow all keyboard sizes to code. Let me elaborate
----
+
 ## Why?
 Keyboard is an essential part of a computer. Because of that, it is packed with features to allow users to do all tasks with ease.
 But then, computers became more available to average households. Then the need for feature-packed keyboards started to vanish as people didn't really need all of the keys on them.
@@ -19,8 +19,8 @@ all of the symbols... all of the numbers...
 everyone has _tabbed_ out. There is no _escape_, I have no _control_. I can't _shift_ the balance back to what it was. There is no _alternative_ either. Only screaming and letters left.
 
 This esolang is my response to this growing trend. I want to make sure that all people can code, regardless of their keyboard size. And I've done it in a more artistic way, inspired by Assembly and BASIC. I've managed to create a one-of-a-kind esolang, a masterpiece of a language. It's simple, easy to understand, symmetric, and consistent, not straining for the eyes.
----
-### Guide
+
+# Guide
 
 ## Keywords
 | Key | Action |
