@@ -26,10 +26,10 @@ This esolang is my response to this growing trend. I want to make sure that all 
 | Key | Action |
 |-----|--------|
 | `OUT` | Output variable, string, or number |
-| `RED` | Input string, or number to a variable|
+| `RED` | Input string, or number to a variable |
 | `VAR` | Declare a variable |
-| `TXT` | indicate a sting |
-| `NUM` | indicate a number |
+| `TXT` | Indicate a sting |
+| `NUM` | Indicate a number |
 | `END` | End the program |
 | `ENL` | Mark an end of line |
 | `NWL` | Mark a new line for string |
@@ -59,3 +59,26 @@ This esolang is my response to this growing trend. I want to make sure that all 
 | `EGH` | 8 |
 | `NNE` | 9 |
 | `NEG` | - |
+
+## Syntax
+
+- `argument` without paranthesis is optional
+- `[argument]` with paranthesis is required
+- `[argument 1 | argument 2]` with `|` is option
+- `ADD` `SUB` `MUL` `DIV` `MOD` `CPY` will save the result to the first variable
+
+| Key | Syntax |
+|-----|--------|
+| `OUT` | `[OUT]` `[TXT \| NUM \| VAR]` `[VALUE \| VARIABLE NAME]` |
+| `RED` | `[RED]` `[TXT \| NUM]` `[VARIABLE NAME]` `MESSAGE` |
+| `VAR` | `[VAR]` `[TXT \| NUM]` `[VALUE]` |
+| `FLG` | `[FLG]` `[FLAG NAME]` |
+| `JPT` | `[JPT]` `[FLAG NAME]` |
+| `JPP` | `[JPP]` `[FLAG NAME]` `[TARGET VARIABLE]` |
+| `JPN` | `[JPN]` `[FLAG NAME]` `[TARGET VARIABLE]` |
+| `ADD` | `[ADD]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
+| `SUB` | `[SUB]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
+| `MUL` | `[MUL]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
+| `DIV` | `[DIV]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
+| `MOD` | `[MOD]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
+| `CPY` | `[CPY]` `[SOURCE VARIABLE]` `[TARGET VARIABLE]` |
