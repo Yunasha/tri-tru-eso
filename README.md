@@ -64,7 +64,7 @@ This esolang is my response to this growing trend. I want to make sure that all 
 
 ## Syntax
 
-all key and names must be 3 characters long. no more, no less. This include the string and number
+All key and names must be 3 characters long. no more, no less. This include the string and number
 
 - `argument` without paranthesis is optional
 - `[argument]` with paranthesis is required
