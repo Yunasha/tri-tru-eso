@@ -4,3 +4,4 @@ This include:
 - fizzbuzz program
 - input testing
 - fibbonaci sequence generator
+- looping

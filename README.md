@@ -38,11 +38,11 @@ This esolang is my response to this growing trend. I want to make sure that all 
 | `JPP` | Jump to a flag if positive |
 | `JPN` | Jump to a flag if negative |
 | `SPC` | additional space for string |
-| `ADD` | Perform an addition between to variables |
-| `SUB` | Perform a subtraction between to variables |
-| `MUL` | Perform a multiplication between to variables |
-| `DIV` | Perform a division between to variables |
-| `MOD` | Perform a modulo between to variables |
+| `ADD` | Perform an addition between two variables |
+| `SUB` | Perform a subtraction between two variables |
+| `MUL` | Perform a multiplication between two variables |
+| `DIV` | Perform a division between two variables |
+| `MOD` | Perform a modulo between two variables |
 | `CPY` | Copy a value of a variable to another variable |
 
 ## Numbers
@@ -61,6 +61,8 @@ This esolang is my response to this growing trend. I want to make sure that all 
 | `NEG` | - |
 
 ## Syntax
+
+all key and names must be 3 characters long. no more, no less. This include the string and number
 
 - `argument` without paranthesis is optional
 - `[argument]` with paranthesis is required
@@ -82,3 +84,5 @@ This esolang is my response to this growing trend. I want to make sure that all 
 | `DIV` | `[DIV]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
 | `MOD` | `[MOD]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
 | `CPY` | `[CPY]` `[SOURCE VARIABLE]` `[TARGET VARIABLE]` |
+
+You can find all example in `.\example\`
