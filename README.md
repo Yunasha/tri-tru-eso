@@ -30,7 +30,7 @@ This esolang is my response to this growing trend. I want to make sure that all 
 | `OUT` | Output variable, string, or number |
 | `RED` | Input string, or number to a variable |
 | `VAR` | Declare a variable |
-| `TXT` | Indicate a sting |
+| `TXT` | Indicate a string |
 | `NUM` | Indicate a number |
 | `END` | End the program |
 | `ENL` | Mark an end of line |
