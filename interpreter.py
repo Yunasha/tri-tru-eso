@@ -424,4 +424,4 @@ try:
         index += 1
 except KeyboardInterrupt:
     # print(data)
-    handler.end("Program interupt")
+    handler.end("Program interrupt")
