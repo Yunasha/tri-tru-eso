@@ -71,7 +71,7 @@ All key and names must be 3 characters long. no more, no less. This include the 
 - `argument` without paranthesis is optional
 - `[argument]` with paranthesis is required
 - `[argument 1 | argument 2]` with `|` is option
-- `ADD` `SUB` `MUL` `DIV` `MOD` `CPY` will save the result to the first variable
+- `ADD` `SUB` `MUL` `DIV` `MOD` will save the result to the first variable
 
 | Key | Syntax |
 |-----|--------|
