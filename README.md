@@ -89,4 +89,4 @@ All key and names must be 3 characters long. no more, no less. This include the 
 | `MOD` | `[MOD]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
 | `CPY` | `[CPY]` `[SOURCE VARIABLE]` `[TARGET VARIABLE]` |
 
-You can find all example in `.\example\`
+You can find all example in [example](https://github.com/Yunasha/tri-tru-eso/blob/updating-readme/example/CONTENT.md#this-folder-contains-all-example-of-this-esolang)
