@@ -1,11 +1,11 @@
 # tri-tru-eso
 ## Esolang
 
-Tri-tru-eso is a esoteric language with one goal in mind: to allow all keyboard sizes to code. Let me elaborate
+Tri-tru-eso is a esoteric language where all keyboard size can code
 
 ## Why?
 Keyboard is an essential part of a computer. Because of that, it is packed with features to allow users to do all tasks with ease.
-But then, computers became more available to average households. Then the need for feature-packed keyboards started to vanish as people didn't really need all of the keys on them.
+But then, computers became more available to average households. Then the need for feature-packed keyboards started to vanish as people didn't really need all of the keys on them to do their stuff.
 
 So, keyboards started to shrink and shrink.
 - F13 - F24 got killed
@@ -22,7 +22,7 @@ Everyone has _tabbed_ out. There is no _escape_, I have no _control_. I can't _s
 
 This esolang is my response to this growing trend. I want to make sure that all people can code, regardless of their keyboard size. And I've done it in a more artistic way, inspired by Assembly and BASIC. I've managed to create a one-of-a-kind esolang, a masterpiece of a language. It's simple, easy to understand, symmetric, consistent, not straining for the eyes, and also 3.
 
-<sub>This is my first time making a github repo also</sub>
+<sub>This is my first time making an esolang and github repo also</sub>
 
 # Guide
 
@@ -70,7 +70,7 @@ All key and names must be 3 characters long. no more, no less. This include the 
 
 - `argument` without paranthesis is optional
 - `[argument]` with paranthesis is required
-- `[argument 1 | argument 2]` with `|` is option
+- `[argument 1 | argument 2]` with `|` is the options
 - `ADD` `SUB` `MUL` `DIV` `MOD` will save the result to the first variable
 
 | Key | Syntax |
@@ -89,4 +89,4 @@ All key and names must be 3 characters long. no more, no less. This include the 
 | `MOD` | `[MOD]` `[FIRST VARIABLE]` `[SECOND VARIABLE]` |
 | `CPY` | `[CPY]` `[SOURCE VARIABLE]` `[TARGET VARIABLE]` |
 
-You can find all example in `.\example\`
+You can find all example in [example](https://github.com/Yunasha/tri-tru-eso/blob/updating-readme/example/CONTENT.md#this-folder-contains-all-example-of-this-esolang)
